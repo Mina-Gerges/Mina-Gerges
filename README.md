@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on **improving my SwiftUI skills through larger and more complex projects.**
 
-- 🌱 I’m currently learning **Modular programming, Data structure & Algorithms**
+- 🌱 I’m currently learning **modular programming, data structure & algorithms**
 
 - 📝 I write articles on [https://www.raywenderlich.com/u/mina_gerges](https://www.raywenderlich.com/u/mina_gerges)
 
-- 💬 Ask me about **Swift, SwiftUI, Xcode**
+- 💬 Ask me about **Swift, SwiftUI, and Xcode**
 
 - 📫 How to reach me **minagerges1190@gmail.com**
 
