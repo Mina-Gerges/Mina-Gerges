@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **modular programming, data structure & algorithms**
 
-- 📝 I write articles on [https://www.raywenderlich.com/u/mina_gerges](https://www.raywenderlich.com/u/mina_gerges)
+- 📝 I write articles on [https://www.kodeco.com/u/mina_gerges)
 
 - 💬 Ask me about **Swift, SwiftUI, and Xcode**
 
 - 📫 How to reach me **minagerges1190@gmail.com**
 
-- ⚡ Fun fact **My adorable twin sons can drive me insane in a matter of minutes:]**
+- ⚡ Fun fact **My adorable twin sons can drive me insane in a matter of seconds:]**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
